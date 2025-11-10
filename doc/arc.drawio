@@ -20,9 +20,9 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <UserObject label="Sub-component A" link="data:page/id,EOHEskdLoMfX-ys9ljRw" id="2">
+                <UserObject label="" link="data:page/id,EOHEskdLoMfX-ys9ljRw" id="2">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-                        <mxGeometry x="240" y="280" width="120" height="60" as="geometry"/>
+                        <mxGeometry x="190" y="280" width="172.5" height="55" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="Sub-component B" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_b/refs/heads/main/doc/arc.drawio" linkTarget="_blank" id="3">
@@ -41,14 +41,17 @@
                 </mxCell>
                 <UserObject label="" link="https://github.com/rasmushaa/drawio_document_demo_a/tree/main" linkTarget="_blank" id="10">
                     <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
-                        <mxGeometry x="240" y="170" width="75" height="75" as="geometry"/>
+                        <mxGeometry x="310" y="287.5" width="40.5" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
+                <mxCell id="12" value="Sub-component A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="292.5" width="120" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="EOHEskdLoMfX-ys9ljRw" name="component-a">
-        <mxGraphModel dx="833" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="928" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
